@@ -36,6 +36,7 @@ This is a full-stack ecommerce web application developed using **FastAPI** (back
 ##  Project Structure
 
 ecommerce_api/
+
 ├── main.py # Main FastAPI app
 
 ├── models.py # Database models
