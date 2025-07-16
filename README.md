@@ -37,19 +37,27 @@ This is a full-stack ecommerce web application developed using **FastAPI** (back
 
 ecommerce_api/
 ├── main.py # Main FastAPI app
+
 ├── models.py # Database models
+
 ├── schemas.py # Pydantic schemas
+
 ├── crud.py # Business logic
+
 ├── auth.py # JWT authentication
+
 ├── database.py # DB config
+
 └── static/
+
 ├── index.html # Frontend HTML
+
 └── script.js # JavaScript frontend logic
 
 
 ---
 
-## 🔄 How to Run
+##  How to Run
 
 1. Clone the repo and install dependencies:
     ```bash
@@ -67,16 +75,7 @@ ecommerce_api/
 
 ---
 
-## 📷 Screenshots
-
-- ✅ Login/Register
-- 👑 Admin Panel for adding products
-- 🛒 Cart and Place Order
-- 📦 View Orders
-
----
-
-## ✅ Status
+##  Status
 
 This project is fully working:
 - User/admin registration
@@ -86,7 +85,7 @@ This project is fully working:
 
 ---
 
-## 📌 Future Enhancements
+## Future Enhancements
 
 - Product images
 - Update products and orders
